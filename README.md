@@ -1,31 +1,57 @@
 # Supply Chain Portfolio — Sandeep Dubey
-**Created:** 2025-11-30
 
-This repository contains three end-to-end, recruiter-ready supply chain analytics projects based on my professional experience at **Mytheresa**, **Tesla**, and **Amazon (intern)**.
+> Recruiter-ready supply chain analytics portfolio (Mytheresa, Tesla, Amazon). Power BI dashboards, datasets, and notebooks.
 
-**Purpose:** Showcase domain knowledge in Inventory Optimization, Procurement/RFQ Analytics, and Fulfillment Center Operations using Power BI, Python, and Excel-ready datasets. Each project folder includes datasets, README documentation, notebook outlines, DAX formulas, Power BI layout suggestions, and LinkedIn-ready copy for sharing your work with recruiters.
-
----
-
-## Projects
-1. **Mytheresa - Inventory Optimization & Replenishment** (`Mytheresa-Inventory-Optimization/`)
-2. **Tesla - Supplier Cost Analysis & RFQ Simulator** (`Tesla-RFQ-Procurement-Analytics/`)
-3. **Amazon - FC Logistics KPI Dashboard** (`Amazon-FC-Logistics-KPIs/`)
+**Live demo (GitHub Pages):** https://sandeepdubey0000-glitch.github.io/supply-chain-portfolio-sandeep-dubey/  *(enable Pages on branch `main` → /docs folder)*
 
 ---
 
-## How to use this repo
-1. Clone or download this repository.
-2. Open the relevant project folder and review the README for each project.
-3. Load the CSV into Power BI or Python and follow the notebook outline to reproduce analytics.
-4. Use the `powerbi_mockups/` folders for visual guidance when creating .pbix files.
+## Contents
+- [Mytheresa — Inventory Optimization](./Mytheresa-Inventory-Optimization/README.md)
+- [Tesla — RFQ & Procurement Analytics](./Tesla-RFQ-Procurement-Analytics/README.md)
+- [Amazon — FC Logistics KPI](./Amazon-FC-Logistics-KPIs/README.md)
+- [PowerBI layouts & DAX](./powerbi_layouts/)
+- [LinkedIn makeover assets](./linkedin_makeover/)
+
+---
+
+## Quick summary
+- **Tools:** Power BI, SAP S/4HANA concepts, Python, Excel  
+- **Datasets:** realistic synthetic CSVs for each project (ready to load)  
+- **Objective:** showcase supply chain domain + analytics skills for hiring managers and recruiters
+
+---
+
+## How to run
+1. `git clone https://github.com/sandeepdubey0000-glitch/supply-chain-portfolio-sandeep-dubey`  
+2. Open each project folder and load the CSV into Power BI / Python notebooks.  
+3. Follow the README in each project to reproduce results.  
+
+---
+
+## Key achievements (highlights to show recruiters)
+- **15% cost reduction** simulated through RFQ negotiations (Tesla sample)  
+- **98% fulfillment accuracy** for prioritized SKUs (Mytheresa sample)  
+- **Improved FC visibility**: average cycle time ~320 min & SLA 82% (Amazon sample)
+
+---
+
+## Project previews
+<p float="left">
+  <img src="docs/mytheresa_mockup_v2.png" width="300" alt="Mytheresa mockup"/>
+  <img src="docs/tesla_mockup_v2.png" width="300" alt="Tesla mockup"/>
+  <img src="docs/amazon_mockup_v2.png" width="300" alt="Amazon mockup"/>
+</p>
 
 ---
 
 ## Contact
-GitHub: `github.com/sandeepdubey`  <!-- Placeholder: replace with your actual username if different -->
-LinkedIn: linkedin.com/in/sandeep-dubey-25jul
+
+GitHub: https://github.com/sandeepdubey0000-glitch/supply-chain-portfolio-sandeep-dubey  
+LinkedIn: https://www.linkedin.com/in/sandeep-dubey-25jul  
 Email: sandeepdubey0000@gmail.com
 
 ---
-*Notes:* This repo was auto-generated and includes synthetic but realistic datasets for demonstration and hiring purposes.
+
+## License
+This repository is available under the MIT License. See [LICENSE](./LICENSE) for details.
